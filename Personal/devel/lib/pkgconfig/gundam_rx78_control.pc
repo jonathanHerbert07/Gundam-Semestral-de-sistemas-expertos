@@ -1,0 +1,1 @@
+/home/marvin/catkin_ws/devel/.private/gundam_rx78_control/lib/pkgconfig/gundam_rx78_control.pc

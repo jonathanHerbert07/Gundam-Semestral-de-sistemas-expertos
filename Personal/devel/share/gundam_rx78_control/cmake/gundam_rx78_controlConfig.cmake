@@ -1,0 +1,1 @@
+/home/marvin/catkin_ws/devel/.private/gundam_rx78_control/share/gundam_rx78_control/cmake/gundam_rx78_controlConfig.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/marvin/catkin_ws/devel/share/gundam_rx78_control/cmake/gundam_rx78_controlConfig.cmake
+Symlinking /home/marvin/catkin_ws/devel/share/gundam_rx78_control/cmake/gundam_rx78_controlConfig-version.cmake
+Symlinking /home/marvin/catkin_ws/devel/lib/libgundam_rx78_control.so
+Symlinking /home/marvin/catkin_ws/devel/lib/pkgconfig/gundam_rx78_control.pc

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target gundam_rx78_control[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gundam_rx78_control.dir/src/joint_trajectory_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/marvin/catkin_ws/devel/.private/gundam_rx78_control/lib/libgundam_rx78_control.so[0m
+[100%] Built target gundam_rx78_control

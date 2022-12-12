@@ -1,0 +1,8 @@
+prefix=/home/marvin/catkin_ws/devel/.private/gundam_rx78_description
+
+Name: gundam_rx78_description
+Description: Description of gundam_rx78_description
+Version: 0.0.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

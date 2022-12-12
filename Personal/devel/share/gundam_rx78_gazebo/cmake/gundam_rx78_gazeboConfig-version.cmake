@@ -1,0 +1,1 @@
+/home/marvin/catkin_ws/devel/.private/gundam_rx78_gazebo/share/gundam_rx78_gazebo/cmake/gundam_rx78_gazeboConfig-version.cmake

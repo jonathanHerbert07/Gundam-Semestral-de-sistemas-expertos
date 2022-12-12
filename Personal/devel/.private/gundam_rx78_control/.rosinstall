@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/marvin/catkin_ws/devel/.private/gundam_rx78_control/setup.sh

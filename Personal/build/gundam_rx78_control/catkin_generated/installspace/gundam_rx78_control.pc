@@ -1,0 +1,8 @@
+prefix=/home/marvin/catkin_ws/install
+
+Name: gundam_rx78_control
+Description: Description of gundam_rx78_control
+Version: 0.0.4
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lgundam_rx78_control
+Requires: controller_interface joint_trajectory_controller pluginlib
